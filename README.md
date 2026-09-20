@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=180&section=header&text=Mohammed%20Ismail&fontSize=40&fontColor=E2E8F0&fontAlignY=40&desc=Backend%20Engineer%20%C2%B7%20Java%20%2F%20Spring%20Boot&descAlignY=62&descSize=17&descColor=94A3B8" />
+<img src="assets/hero-name.png" alt="Mohammed Ismail" width="640"/>
+<br/>
+<img src="assets/hero-role.png" alt="Backend Engineer" width="380"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=94A3B8&center=true&vCenter=true&width=560&lines=Understand+the+system+before+changing+the+code.;Backend+Engineering+%E2%86%92+Distributed+Systems;Full-Stack+Development+%E2%86%92+Data+%2F+AI" />
-</a>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=8A8F98&center=true&vCenter=true&width=560&lines=Understand+the+system+before+changing+the+code.;Backend+Engineering+%E2%86%92+Distributed+Systems;Full-Stack+Development+%E2%86%92+Data+%2F+AI" alt="typing banner"/>
 
 </div>
 
-<br>
+<br/>
 
 ```text
 $ whoami
 ```
 
-Backend Java Developer with 4+ years building and operating production
+Backend Java Developer with 2+ years building and operating production
 systems — REST/GraphQL services, ERP modules, batch pipelines, data
 reconciliation, and reporting, on Java/Spring Boot over PostgreSQL and
 MongoDB. Most of that time is spent where the interesting bugs live: the
@@ -25,9 +27,9 @@ That's the direction below — not a claim of arrival. The split between
 what's professional experience and what's currently in progress is
 deliberate.
 
-<br>
+<img src="assets/divider.png" alt="" width="100%"/>
 
-## Stack
+<img src="assets/h-stack.png" alt="Stack" height="26"/>
 
 **Professional**
 
@@ -45,11 +47,9 @@ deliberate.
 
 `Data Science` `Machine Learning` `RAG` `AI Systems`
 
-<br>
+<img src="assets/divider.png" alt="" width="100%"/>
 
----
-
-## What I work on
+<img src="assets/h-work.png" alt="What I work on" height="26"/>
 
 - Backend API development (REST & GraphQL)
 - ERP and database-heavy enterprise applications
@@ -58,9 +58,9 @@ deliberate.
 - Reporting systems (JasperReports)
 - Production debugging and SQL/query optimization
 
----
+<img src="assets/divider.png" alt="" width="100%"/>
 
-## Projects
+<img src="assets/h-projects.png" alt="Projects" height="26"/>
 
 ```text
 Projects
@@ -74,9 +74,9 @@ Projects
 Pinned repositories will replace this list as they're published — nothing
 fabricated in the meantime.
 
----
+<img src="assets/divider.png" alt="" width="100%"/>
 
-## Engineering philosophy
+<img src="assets/h-philosophy.png" alt="Philosophy" height="26"/>
 
 ```text
 Build → Break → Debug → Understand → Improve
@@ -92,9 +92,9 @@ Most of what I've learned professionally came from tracing a bug down
 through that chain rather than from a tutorial — so that's the loop I
 default to when learning something new too.
 
----
+<img src="assets/divider.png" alt="" width="100%"/>
 
-## DSA journey
+<img src="assets/h-dsa.png" alt="DSA journey" height="26"/>
 
 Working through a structured problem-solving track, repo linked once it's
 in shape:
@@ -114,27 +114,27 @@ in shape:
 
 </details>
 
----
+<img src="assets/divider.png" alt="" width="100%"/>
 
-## Outside of backend
+<img src="assets/h-outside.png" alt="Outside of backend" height="26"/>
 
 Occasionally experimenting with explainer/documentary-style technical
 storytelling — video essays that unpack how a system or technology
 actually works, in the spirit of the pop-science/pop-culture explainer
 format. Early stage, secondary to the engineering work above.
 
----
+<img src="assets/divider.png" alt="" width="100%"/>
 
-## Elsewhere
+<img src="assets/h-elsewhere.png" alt="Elsewhere" height="26"/>
 
 `LinkedIn` — add link · `Email` — add contact email
 
-<br>
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=100&section=footer" />
+<img src="assets/divider.png" alt="" width="100%"/>
 
-*Currently debugging something. Probably a database.*
+<sub>Currently debugging something. Probably a database.</sub>
 
 </div>
