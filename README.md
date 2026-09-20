@@ -12,9 +12,13 @@ The split below between what's professional experience and what's currently in p
 
 <img src="assets/h-stack.svg" alt="Stack" height="34"/>
 
-**Professional** `Java 8` `Spring Boot` `REST` `GraphQL` `PostgreSQL` `MongoDB` `Maven` `Git/GitLab` `Docker` `Linux` `Tomcat` `JasperReports`
+**Professional**
 
-**Learning** `Kafka` `Redis` `AWS` `Microservices` `React`
+![Java](https://img.shields.io/badge/-000000?style=flat-square&logo=openjdk&logoColor=F2F2F0) ![Spring](https://img.shields.io/badge/-000000?style=flat-square&logo=spring&logoColor=F2F2F0) ![PostgreSQL](https://img.shields.io/badge/-000000?style=flat-square&logo=postgresql&logoColor=F2F2F0) ![MongoDB](https://img.shields.io/badge/-000000?style=flat-square&logo=mongodb&logoColor=F2F2F0) ![Maven](https://img.shields.io/badge/-000000?style=flat-square&logo=apachemaven&logoColor=F2F2F0) ![Git](https://img.shields.io/badge/-000000?style=flat-square&logo=git&logoColor=F2F2F0) ![GitLab](https://img.shields.io/badge/-000000?style=flat-square&logo=gitlab&logoColor=F2F2F0) ![Docker](https://img.shields.io/badge/-000000?style=flat-square&logo=docker&logoColor=F2F2F0) ![Linux](https://img.shields.io/badge/-000000?style=flat-square&logo=linux&logoColor=F2F2F0) ![Tomcat](https://img.shields.io/badge/-000000?style=flat-square&logo=apachetomcat&logoColor=F2F2F0) `JasperReports`
+
+**Learning**
+
+![Kafka](https://img.shields.io/badge/-000000?style=flat-square&logo=apachekafka&logoColor=FF2D2D) ![Redis](https://img.shields.io/badge/-000000?style=flat-square&logo=redis&logoColor=FF2D2D) ![AWS](https://img.shields.io/badge/-000000?style=flat-square&logo=amazonaws&logoColor=FF2D2D) ![React](https://img.shields.io/badge/-000000?style=flat-square&logo=react&logoColor=FF2D2D) `Microservices`
 
 **Exploring** `Data Science` `Machine Learning` `RAG` `AI Systems`
 
