@@ -14,7 +14,7 @@
 $ whoami
 ```
 
-Backend Java Developer with 2+ years building and operating production
+Backend Java Developer with 4+ years building and operating production
 systems — REST/GraphQL services, ERP modules, batch pipelines, data
 reconciliation, and reporting, on Java/Spring Boot over PostgreSQL and
 MongoDB. Most of that time is spent where the interesting bugs live: the
