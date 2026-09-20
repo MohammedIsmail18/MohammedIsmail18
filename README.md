@@ -75,12 +75,6 @@ Also building toward:
 
 <img src="assets/divider.svg" width="100%" height="16" alt=""/>
 
-<img src="assets/h-outside.svg" alt="Outside of backend" height="34"/>
-
-Occasionally experimenting with explainer/documentary-style technical storytelling — video essays that unpack how a system or technology actually works, in the spirit of the pop-science/pop-culture explainer format. Early stage, secondary to the engineering work above.
-
-<img src="assets/divider.svg" width="100%" height="16" alt=""/>
-
 <img src="assets/h-elsewhere.svg" alt="Elsewhere" height="34"/>
 
 `LinkedIn` — add link · `Email` — add contact email
