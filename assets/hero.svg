@@ -109,7 +109,7 @@ text {
   </circle>
   <text x="60" y="74" font-size="34" fill="#F2F2F0">MOHAMMED ISMAIL</text>
   <g opacity="0">
-      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0.0000;0.0556;0.2777;0.3333;1.0000" dur="9s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0.0000;0.0556;0.2778;0.3333;1.0000" dur="9s" begin="0s" repeatCount="indefinite"/>
       <text x="60" y="106" font-size="16" fill="#5A5A58">BACKEND ENGINEER</text>
       <rect x="306" y="93" width="9" height="16" fill="#FF2D2D">
         <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1s" repeatCount="indefinite"/>
@@ -123,12 +123,12 @@ text {
       </rect>
     </g>
 <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0.0000;0.6667;0.7223;0.9444;1.0000" dur="9s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0.0000;0.6667;0.7222;0.9444;1.0000" dur="9s" begin="0s" repeatCount="indefinite"/>
       <text x="60" y="106" font-size="16" fill="#5A5A58">JAVA / SPRING / POSTGRES / MONGO</text>
       <rect x="532" y="93" width="9" height="16" fill="#FF2D2D">
         <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1s" repeatCount="indefinite"/>
       </rect>
     </g>
 
-  <text x="40" y="140" font-size="12" fill="#5A5A58" letter-spacing="3">(001) EXCELOID · JAVA / SPRING / DATA</text>
+  <text x="40" y="140" font-size="12" fill="#5A5A58" letter-spacing="3">(001) JAVA / SPRING / DATA</text>
 </svg>

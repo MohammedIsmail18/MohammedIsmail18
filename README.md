@@ -4,7 +4,7 @@
 
 <br/>
 
-Backend Java Developer with 2+ years building and operating production systems — REST/GraphQL services, ERP modules, batch pipelines, data reconciliation, and reporting, on Java/Spring Boot over PostgreSQL and MongoDB. Most of that time is spent where the interesting bugs live: the seam between the application, the database, and whatever system it's talking to.
+Backend Java Developer with 4+ years building and operating production systems — REST/GraphQL services, ERP modules, batch pipelines, data reconciliation, and reporting, on Java/Spring Boot over PostgreSQL and MongoDB. Most of that time is spent where the interesting bugs live: the seam between the application, the database, and whatever system it's talking to.
 
 The split below between what's professional experience and what's currently in progress is deliberate — nothing here is inflated.
 
@@ -14,11 +14,11 @@ The split below between what's professional experience and what's currently in p
 
 **Professional**
 
-![Java](https://img.shields.io/badge/-000000?style=flat-square&logo=openjdk&logoColor=F2F2F0) ![Spring](https://img.shields.io/badge/-000000?style=flat-square&logo=spring&logoColor=F2F2F0) ![PostgreSQL](https://img.shields.io/badge/-000000?style=flat-square&logo=postgresql&logoColor=F2F2F0) ![MongoDB](https://img.shields.io/badge/-000000?style=flat-square&logo=mongodb&logoColor=F2F2F0) ![Maven](https://img.shields.io/badge/-000000?style=flat-square&logo=apachemaven&logoColor=F2F2F0) ![Git](https://img.shields.io/badge/-000000?style=flat-square&logo=git&logoColor=F2F2F0) ![GitLab](https://img.shields.io/badge/-000000?style=flat-square&logo=gitlab&logoColor=F2F2F0) ![Docker](https://img.shields.io/badge/-000000?style=flat-square&logo=docker&logoColor=F2F2F0) ![Linux](https://img.shields.io/badge/-000000?style=flat-square&logo=linux&logoColor=F2F2F0) ![Tomcat](https://img.shields.io/badge/-000000?style=flat-square&logo=apachetomcat&logoColor=F2F2F0) `JasperReports`
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=openjdk&logoColor=F2F2F0" height="36" alt="Java"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=spring&logoColor=F2F2F0" height="36" alt="Spring"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=postgresql&logoColor=F2F2F0" height="36" alt="PostgreSQL"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=mongodb&logoColor=F2F2F0" height="36" alt="MongoDB"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=apachemaven&logoColor=F2F2F0" height="36" alt="Maven"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=git&logoColor=F2F2F0" height="36" alt="Git"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=gitlab&logoColor=F2F2F0" height="36" alt="GitLab"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=docker&logoColor=F2F2F0" height="36" alt="Docker"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=linux&logoColor=F2F2F0" height="36" alt="Linux"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=apachetomcat&logoColor=F2F2F0" height="36" alt="Tomcat"> `JasperReports`
 
 **Learning**
 
-![Kafka](https://img.shields.io/badge/-000000?style=flat-square&logo=apachekafka&logoColor=FF2D2D) ![Redis](https://img.shields.io/badge/-000000?style=flat-square&logo=redis&logoColor=FF2D2D) ![AWS](https://img.shields.io/badge/-000000?style=flat-square&logo=amazonaws&logoColor=FF2D2D) ![React](https://img.shields.io/badge/-000000?style=flat-square&logo=react&logoColor=FF2D2D) `Microservices`
+<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=apachekafka&logoColor=FF2D2D" height="36" alt="Kafka"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=redis&logoColor=FF2D2D" height="36" alt="Redis"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=amazonaws&logoColor=FF2D2D" height="36" alt="AWS"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=react&logoColor=FF2D2D" height="36" alt="React"> `Microservices`
 
 **Exploring** `Data Science` `Machine Learning` `RAG` `AI Systems`
 
