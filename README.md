@@ -85,6 +85,18 @@ Occasionally experimenting with explainer/documentary-style technical storytelli
 
 `LinkedIn` — add link · `Email` — add contact email
 
+<img src="assets/divider.svg" width="100%" height="16" alt=""/>
+
+<img src="assets/h-contrib.svg" alt="Contributions" height="34"/>
+
+Pac-Man eating through my actual contribution graph, regenerated daily by a GitHub Action.
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammedIsmail18/MohammedIsmail18/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohammedIsmail18/MohammedIsmail18/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohammedIsmail18/MohammedIsmail18/output/pacman-contribution-graph.svg">
+</picture>
+
 <br/>
 
 <div align="center">
