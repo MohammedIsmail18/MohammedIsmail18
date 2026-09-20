@@ -14,11 +14,34 @@ The split below between what's professional experience and what's currently in p
 
 **Professional**
 
-<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=openjdk&logoColor=F2F2F0" height="36" alt="Java"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=spring&logoColor=F2F2F0" height="36" alt="Spring"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=postgresql&logoColor=F2F2F0" height="36" alt="PostgreSQL"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=mongodb&logoColor=F2F2F0" height="36" alt="MongoDB"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=apachemaven&logoColor=F2F2F0" height="36" alt="Maven"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=git&logoColor=F2F2F0" height="36" alt="Git"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=gitlab&logoColor=F2F2F0" height="36" alt="GitLab"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=docker&logoColor=F2F2F0" height="36" alt="Docker"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=linux&logoColor=F2F2F0" height="36" alt="Linux"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=apachetomcat&logoColor=F2F2F0" height="36" alt="Tomcat"> `JasperReports`
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java"/><br>Java</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="60" height="60" alt="Spring"/><br>Spring</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="PostgreSQL"/><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB"/><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=maven" width="60" height="60" alt="Maven"/><br>Maven</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git"/><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gitlab" width="60" height="60" alt="GitLab"/><br>GitLab</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="60" height="60" alt="Docker"/><br>Docker</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="Linux"/><br>Linux</td>
+  </tr>
+</table>
+
+`JasperReports`
 
 **Learning**
 
-<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=apachekafka&logoColor=FF2D2D" height="36" alt="Kafka"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=redis&logoColor=FF2D2D" height="36" alt="Redis"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=amazonaws&logoColor=FF2D2D" height="36" alt="AWS"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=react&logoColor=FF2D2D" height="36" alt="React"> `Microservices`
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kafka" width="60" height="60" alt="Kafka"/><br>Kafka</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="60" height="60" alt="Redis"/><br>Redis</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="AWS"/><br>AWS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React"/><br>React</td>
+  </tr>
+</table>
+
+`Microservices`
 
 **Exploring** `Data Science` `Machine Learning` `RAG` `AI Systems`
 
