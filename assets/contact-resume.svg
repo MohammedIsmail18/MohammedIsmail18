@@ -6,13 +6,17 @@
   font-weight: 700;
   font-style: normal;
 }
-text {
+.label {
   font-family: 'Silkscreen', monospace;
   letter-spacing: 1.5px;
+}
+.value {
+  font-family: 'SFMono-Regular', Consolas, Menlo, monospace;
+  letter-spacing: 0.2px;
 }
 </style></defs>
   <rect x="0" y="0" width="720" height="52" fill="#000000"/>
   <rect x="0.5" y="0.5" width="719" height="51" fill="none" stroke="#5A5A58" stroke-width="1"/>
   <rect x="0" y="0" width="4" height="52" fill="#FF2D2D"/>
-  <text x="28" y="31.6" font-size="16"><tspan fill="#FF2D2D">&#8250;</tspan><tspan fill="#F2F2F0" dx="12">RESUME</tspan><tspan fill="#5A5A58" dx="10">&#8212;</tspan><tspan fill="#F2F2F0" dx="10">VIEW PDF</tspan></text>
+  <text y="31.25"><tspan x="28" class="label" font-size="15" fill="#FF2D2D">&#8250;</tspan><tspan class="label" font-size="15" fill="#F2F2F0" dx="12">RESUME</tspan><tspan class="value" font-size="17" fill="#5A5A58" dx="14">&#8212;</tspan><tspan class="value" font-size="17" fill="#F2F2F0" dx="14">view PDF</tspan></text>
 </svg>
