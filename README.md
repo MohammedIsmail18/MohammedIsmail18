@@ -100,7 +100,7 @@ Also building toward:
 
 <img src="assets/h-elsewhere.svg" alt="Elsewhere" height="34"/>
 
-`LinkedIn` — add link · `Email` — add contact email
+`LinkedIn` — add link · `Email` — add contact email · [`Resume`](resume.pdf)
 
 <img src="assets/divider.svg" width="100%" height="16" alt=""/>
 
