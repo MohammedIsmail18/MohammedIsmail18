@@ -100,7 +100,11 @@ Also building toward:
 
 <img src="assets/h-elsewhere.svg" alt="Elsewhere" height="34"/>
 
-`LinkedIn` — add link · `Email` — add contact email · [`Resume`](resume.pdf)
+<img src="assets/contact-linkedin.svg" alt="LinkedIn — add link" width="720"/>
+
+[<img src="assets/contact-email.svg" alt="Email — mohammedismail6991@gmail.com" width="720"/>](mailto:mohammedismail6991@gmail.com)
+
+[<img src="assets/contact-resume.svg" alt="Resume — view PDF" width="720"/>](resume.pdf)
 
 <img src="assets/divider.svg" width="100%" height="16" alt=""/>
 
